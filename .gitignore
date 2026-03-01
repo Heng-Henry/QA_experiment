@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.out
+*.err
+.env
+.venv/
+outputs/
+runs/
+.hf_cache/
